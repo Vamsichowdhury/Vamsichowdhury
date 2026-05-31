@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=5%2B+Years+of+Frontend+Engineering;Vue.js+%7C+React.js+%7C+TypeScript+%7C+Pinia+%7C+Redux+%7C+Vuex;Building+Scalable+%26+Performant+UIs;SDE-III+%40+FactSet+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=5%2B+Years+of+Frontend+Engineering;Vue.js+%7C+React.js+%7C+TypeScript+%7C+JavaScript;Building+Scalable+%26+Performant+UIs;SDE-III+%40+FactSet+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
