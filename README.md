@@ -61,8 +61,8 @@ const vamsi = {
 
 | 🏢 Company | 💼 Role | 📅 Duration | 🛠️ Stack |
 |:---:|:---:|:---:|:---:|
-| **FactSet** | Software Engineer II | Jun 2024 – Present | Vue.js · Pinia · Vuetify · TypeScript |
-| **Albanero** | Software Engineer | Jan 2022 – May 2024 | React.js · Vue.js · JavaScript · CSS |
+| **FactSet** | Software Engineer III | Jun 2024 – Present | Vue.js · Pinia · Vuetify · TypeScript | 2.5 Years
+| **Albanero** | Software Engineer | Jan 2022 – May 2024 | React.js · Vue.js · JavaScript · CSS | 2.5 Years
 
 </div>
 
