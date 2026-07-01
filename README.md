@@ -59,10 +59,10 @@ const vamsi = {
 
 <div align="center">
 
-| 🏢 Company | 💼 Role | 📅 Duration | 🛠️ Stack |
-|:---:|:---:|:---:|:---:|
-| **FactSet** | Software Engineer III | Jun 2024 – Present | Vue.js · Pinia · Vuetify · TypeScript | 2.5 Years
-| **Albanero** | Software Engineer | Jan 2022 – May 2024 | React.js · Vue.js · JavaScript · CSS | 2.5 Years
+| 🏢 Company | 💼 Role | 📅 Duration | 🛠️ Stack | YOE
+|:---:|:---:|:---:|:---:|:---:|
+| **FactSet** | Software Engineer III | Jun 2024 – Present | Vue.js · Pinia · Vuetify · TypeScript | 2.5 Years |
+| **Albanero** | Software Engineer | Jan 2022 – May 2024 | React.js · Vue.js · JavaScript · CSS | 2.5 Years |
 
 </div>
 
